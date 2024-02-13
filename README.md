@@ -1,2 +1,2 @@
 # RepositorioHenry
-sofia
+ejercicio de la clase 2
